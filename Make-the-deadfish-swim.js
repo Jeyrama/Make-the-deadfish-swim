@@ -13,6 +13,8 @@ parse("iiisdoso") => [ 8, 64 ]
 
 // Solution
 
+// or
+
 function parse(data) {
   let res = [];
 
