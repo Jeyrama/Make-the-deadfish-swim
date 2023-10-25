@@ -9,3 +9,6 @@ Deadfish has 4 commands, each 1 character long:
 Invalid characters should be ignored.
 parse("iiisdoso") => [ 8, 64 ]
 */
+
+
+// Solution
